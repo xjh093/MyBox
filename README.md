@@ -29,4 +29,16 @@ Set view's corner with one code!
 
 性能：在某些机型上，能达到 60 FPS!
 
-## 
+## JHFrameLayout - 一款轻量级的自动布局框架
+- 地址:
+
+https://github.com/xjh093/JHFrameLayout
+
+- 简介
+
+布局时间对比：
+
+`Frame` vs `JHFrameLayout` vs `MyFlowLayout`
+
+![image](https://github.com/xjh093/JHFrameLayout/blob/master/image1.png)
+
