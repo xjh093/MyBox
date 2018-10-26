@@ -46,3 +46,25 @@ https://github.com/xjh093/JHFrameLayout
 
 ![image](https://github.com/xjh093/JHFrameLayout/blob/master/image1.png)
 
+示例：
+
+```
+- (void)loadView{
+
+    self.view = [[JHFrameLayoutView alloc] initWithFrame:[UIScreen mainScreen].bounds];
+
+    UIView *view1 = [[UIView alloc] init];
+    view1.backgroundColor = [UIColor grayColor];
+    [self.view addSubview:view1];
+    
+    view1.jhLayout
+    .topOffsetBottomOfView(10, self.navigationController.navigationBar, NO)
+    .leftIs(10)
+    .bottomOffsetMiddleOfView(-50, self.view, YES)
+    .rightOffsetMiddleOfView(-5, self.view, YES);
+}
+```
+
+---
+
+
