@@ -1,6 +1,13 @@
 # MyBox
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
+# 目录
+- JHViewCorner - 一行代码搞定圆角
+- JHFrameLayout - 一款轻量级的自动布局框架
+- JHInputLimit - 一套友好的输入限制方案
+
+---
+
 # 项目
 
 ## JHViewCorner - 一行代码搞定圆角
@@ -63,6 +70,29 @@ https://github.com/xjh093/JHFrameLayout
     .bottomOffsetMiddleOfView(-50, self.view, YES)
     .rightOffsetMiddleOfView(-5, self.view, YES);
 }
+```
+
+---
+
+## JHInputLimit - 一套友好的输入限制方案
+- 地址：
+
+https://github.com/xjh093/JHInputLimit
+
+- 简介
+
+对'UITextField' and 'UITextView'的输入进行限制
+
+三种限制：
+- 长度限制
+- 类型限制
+- 自定义字符限制
+
+示例：
+```
+    _textView.jh_inputLimit.length = 9;
+    _textView.jh_inputLimit.type = JHInputLimitType_Alphabet | JHInputLimitType_Digital | JHInputLimitType_MyCharacters;
+    _textView.jh_inputLimit.myCharacter = [NSSet setWithArray:@[@"!",@","]];
 ```
 
 ---
