@@ -53,7 +53,7 @@ https://github.com/xjh093/JHFrameLayout
 
 ![image](https://github.com/xjh093/JHFrameLayout/blob/master/image1.png)
 
-示例：
+- 示例：
 
 ```
 - (void)loadView{
@@ -88,7 +88,9 @@ https://github.com/xjh093/JHInputLimit
 - 类型限制
 - 自定义字符限制
 
-示例：
+三种限制可以组合使用。
+
+- 示例：
 ```
     _textView.jh_inputLimit.length = 9;
     _textView.jh_inputLimit.type = JHInputLimitType_Alphabet | JHInputLimitType_Digital | JHInputLimitType_MyCharacters;
