@@ -5,6 +5,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHViewCorner - 一行代码搞定圆角
 - JHFrameLayout - 一款轻量级的自动布局框架
 - JHInputLimit - 一套友好的输入限制方案
+- JHCollectionViewFlowLayout - 自定义CollectionView横向排版
 
 ---
 
@@ -96,6 +97,25 @@ https://github.com/xjh093/JHInputLimit
     _textView.jh_inputLimit.type = JHInputLimitType_Alphabet | JHInputLimitType_Digital | JHInputLimitType_MyCharacters;
     _textView.jh_inputLimit.myCharacter = [NSSet setWithArray:@[@"!",@","]];
 ```
+
+---
+
+## JHCollectionViewFlowLayout - 自定义CollectionView横向排版
+- 地址：
+
+https://github.com/xjh093/JHCollectionViewFlowLayout
+
+- 简介
+
+系统的横向排版
+
+是从上到下，从左往右排版
+
+想要从左到右，从上到下的排版
+
+那就需要自定义了
+
+为什么不来看看这个？
 
 ---
 
