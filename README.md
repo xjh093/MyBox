@@ -2,11 +2,6 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
-- <a name="JHViewCorner - 一行代码搞定圆角">JHViewCorner - 一行代码搞定圆角</a>
-- <a name="JHFrameLayout - 一款轻量级的自动布局框架">JHFrameLayout - 一款轻量级的自动布局框架</a>
-- <a name="JHInputLimit - 一套友好的输入限制方案">JHInputLimit - 一套友好的输入限制方案</a>
-- <a name="JHCollectionViewFlowLayout - 自定义CollectionView横向排版">JHCollectionViewFlowLayout - 自定义CollectionView横向排版</a>
-
 - JHViewCorner - 一行代码搞定圆角
 - JHFrameLayout - 一款轻量级的自动布局框架
 - JHInputLimit - 一套友好的输入限制方案
