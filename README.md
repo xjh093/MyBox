@@ -6,7 +6,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHFrameLayout - 一款轻量级的自动布局框架
 - JHInputLimit - 一套友好的输入限制方案
 - JHCollectionViewFlowLayout - 自定义CollectionView横向排版
-
+- JHNumberKeyboardView - 自定义数字键盘
 ---
 
 # 项目
@@ -118,5 +118,25 @@ https://github.com/xjh093/JHCollectionViewFlowLayout
 为什么不来看看这个？
 
 ---
+
+## 自定义数字键盘
+- 地址：
+
+https://github.com/xjh093/JHNumberKeyboardView
+
+- 简介
+
+作为 textField 与 textView 的 inputView 使用
+
+可以限制输入长度
+
+适配横坚屏
+
+适配iPhoneX
+
+![image](https://github.com/xjh093/JHNumberKeyboardView/blob/master/Screen%20Shot%202017-10-17%20at%2017.49.36.png)
+
+---
+
 
 
