@@ -118,6 +118,8 @@ https://github.com/xjh093/JHCollectionViewFlowLayout
 
 为什么不来看看这个？
 
+![image](https://github.com/xjh093/JHCollectionViewFlowLayout/blob/master/custom.png)
+
 ---
 
 ## 自定义数字键盘
