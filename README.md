@@ -7,6 +7,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHInputLimit - 一套友好的输入限制方案
 - JHCollectionViewFlowLayout - 自定义CollectionView横向排版
 - JHNumberKeyboardView - 自定义数字键盘
+- JHAlertView - 一款黑白配色的HUD之沙漏效果
 ---
 
 # 项目
@@ -137,6 +138,24 @@ https://github.com/xjh093/JHNumberKeyboardView
 ![image](https://github.com/xjh093/JHNumberKeyboardView/blob/master/Screen%20Shot%202017-10-17%20at%2017.49.36.png)
 
 ---
+
+## JHAlertView - 一款黑白配色的HUD之沙漏效果
+- 地址：
+
+https://github.com/xjh093/JHAlertView
+
+- 简介
+
+采用遮罩方式实现的一款HUD
+
+沙漏效果
+
+![image](https://github.com/xjh093/JHAlertView/blob/master/image/image3.gif)
+![image](https://github.com/xjh093/JHAlertView/blob/master/image/image5.gif)
+
+---
+
+
 
 
 
