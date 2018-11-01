@@ -8,6 +8,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHCollectionViewFlowLayout - 自定义CollectionView横向排版
 - JHNumberKeyboardView - 自定义数字键盘
 - JHAlertView - 一款黑白配色的HUD之沙漏效果
+- JHAddressPickView - 省市区选择器
 ---
 
 # 项目
@@ -157,7 +158,49 @@ https://github.com/xjh093/JHAlertView
 
 ---
 
+# JHAddressPickView - 省市区选择器
+- 地址：
 
+https://github.com/xjh093/JHAddressPickView
+
+- 简介
+
+省市区选择器
+
+省市二级选择
+
+省市区三级选择
+
+有完整的 code 码
+
+- 示例
+
+```
+
+    _pickView = [[JHAddressPickView alloc] init];
+    _pickView.hideWhenTapGrayView = YES;
+    _pickView.columns = 2;    // 省市二级选择
+    //_pickView.columns = 3;  // 省市区三级选择
+    [_pickView showInView:self.view];
+    
+    // 选择结果
+    
+     {
+       city = "北京市";
+       cityCode = 110100;
+       province = "北京";
+       provinceCode = 110000;
+    }
+    
+    {
+      city = "北京市";
+      cityCode = 110100;
+      province = "北京";
+      provinceCode = 110000;
+      town = "东城区";
+      townCode = 110101;
+    }
+```
 
 
 
