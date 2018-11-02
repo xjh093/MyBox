@@ -9,6 +9,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHNumberKeyboardView - 自定义数字键盘
 - JHAlertView - 一款黑白配色的HUD之沙漏效果
 - JHAddressPickView - 省市区选择器
+- JHVerificationCodeView - 验证码输入
 ---
 
 # 项目
@@ -208,4 +209,19 @@ https://github.com/xjh093/JHAddressPickView
 
 
 ---
+
+# JHVerificationCodeView - 验证码输入
+- 地址：
+https://github.com/xjh093/JHVerificationCodeView
+
+- 简介
+
+看图
+
+![image](https://github.com/xjh093/JHVerificationCodeView/blob/master/image.png)
+
+
+
+
+
 
