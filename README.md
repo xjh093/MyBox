@@ -10,6 +10,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHAlertView - 一款黑白配色的HUD之沙漏效果
 - JHAddressPickView - 省市区选择器
 - JHVerificationCodeView - 验证码输入
+- JHIAPManager - 一行代码完成内购
 ---
 
 # 项目
@@ -220,6 +221,40 @@ https://github.com/xjh093/JHVerificationCodeView
 
 ![image](https://github.com/xjh093/JHVerificationCodeView/blob/master/image.png)
 
+---
+
+# JHIAPManager - 一行代码完成内购
+- 地址：
+https://github.com/xjh093/JHIAPManager
+
+- 简介
+
+封装了内购流程
+
+一行代码完成内购
+
+有越狱逻辑判断
+
+还有针对未完成的支付处理
+
+```
+AppDelaget.m
+
+ - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+ 
+    //内购监听-针对未完成支付
+    [JHIAPManager iapManager].delegate = self;
+    
+    .....
+ }
+ 
+ - (void)jh_paymentSuccess:(SKPaymentTransaction *)transaction{
+     //do something about buying
+     //finish transaction
+ }
+```
+
+---
 
 
 
