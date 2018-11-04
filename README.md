@@ -11,6 +11,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHAddressPickView - 省市区选择器
 - JHVerificationCodeView - 验证码输入
 - JHIAPManager - 一行代码完成内购
+- JHLinkedTextView - 富文本的点击事件
 ---
 
 # 项目
@@ -255,6 +256,17 @@ AppDelaget.m
 ```
 
 ---
+
+# JHLinkedTextView - 富文本的点击事件
+- 地址：
+https://github.com/xjh093/JHLinkedTextView
+
+- 简介
+
+![image](https://github.com/xjh093/JHLinkedTextView/blob/master/image.png)
+
+---
+
 
 
 
