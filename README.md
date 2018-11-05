@@ -12,6 +12,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHVerificationCodeView - 验证码输入
 - JHIAPManager - 一行代码完成内购
 - JHLinkedTextView - 富文本的点击事件
+- JHNoDataEmptyView - 零行代码实现占位图
 ---
 
 # 项目
@@ -264,6 +265,26 @@ https://github.com/xjh093/JHLinkedTextView
 - 简介
 
 ![image](https://github.com/xjh093/JHLinkedTextView/blob/master/image.png)
+
+---
+
+# JHNoDataEmptyView - 零行代码实现占位图
+- 地址：
+https://github.com/xjh093/JHNoDataEmptyViewForT-C
+
+- 简介：
+
+最开始是零行代码实现点位图
+
+后来发现影响范围太广了
+
+就设置了开关属性
+
+可以自由开启
+
+配合代理使用
+
+定制更好的占位图
 
 ---
 
