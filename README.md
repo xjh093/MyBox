@@ -274,7 +274,7 @@ https://github.com/xjh093/JHNoDataEmptyViewForT-C
 
 - 简介：
 
-最开始是零行代码实现点位图
+最开始是零行代码实现占位图
 
 后来发现影响范围太广了
 
@@ -284,7 +284,7 @@ https://github.com/xjh093/JHNoDataEmptyViewForT-C
 
 配合代理使用
 
-定制更好的占位图
+可定制更好的占位图
 
 ---
 
