@@ -13,6 +13,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHIAPManager - 一行代码完成内购
 - JHLinkedTextView - 富文本的点击事件
 - JHNoDataEmptyView - 零行代码实现占位图
+- JHRedDot - 小红点方案
 ---
 
 # 项目
@@ -288,6 +289,27 @@ https://github.com/xjh093/JHNoDataEmptyViewForT-C
 
 ---
 
+# JHRedDot - 小红点方案
+- 地址：
+https://github.com/xjh093/JHRedDot
+
+- 简介：
+
+自动靠右
+
+通过 JHRedDotConfig 配置更多属性
+
+![image](https://github.com/xjh093/JHRedDot/blob/master/image/1.png)
+
+![image](https://github.com/xjh093/JHRedDot/blob/master/image/2.png)
+
+![image](https://github.com/xjh093/JHRedDot/blob/master/image/3.png)
+
+![image](https://github.com/xjh093/JHRedDot/blob/master/image/4.png)
+
+![image](https://github.com/xjh093/JHRedDot/blob/master/image/5.png)
+
+---
 
 
 
