@@ -14,6 +14,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHLinkedTextView - 富文本的点击事件
 - JHNoDataEmptyView - 零行代码实现占位图
 - JHRedDot - 小红点方案
+- JHActioinSheet - 自定义的 action sheet，行数过多时可指定可见行数
 ---
 
 # 项目
@@ -308,6 +309,16 @@ https://github.com/xjh093/JHRedDot
 ![image](https://github.com/xjh093/JHRedDot/blob/master/image/4.png)
 
 ![image](https://github.com/xjh093/JHRedDot/blob/master/image/5.png)
+
+---
+
+# JHActioinSheet - 自定义的 action sheet，行数过多时可指定可见行数
+- 地址：
+https://github.com/xjh093/JHActioinSheet
+
+- 简介
+
+![image](https://github.com/xjh093/JHActioinSheet/blob/master/image.png)
 
 ---
 
