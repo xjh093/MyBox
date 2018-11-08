@@ -15,6 +15,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHNoDataEmptyView - 零行代码实现占位图
 - JHRedDot - 小红点方案
 - JHActioinSheet - 自定义的 action sheet，行数过多时可指定可见行数
+- JHAnimatedImageView - 高性能的帧动画
 ---
 
 # 项目
@@ -321,6 +322,20 @@ https://github.com/xjh093/JHActioinSheet
 ![image](https://github.com/xjh093/JHActioinSheet/blob/master/image.png)
 
 ---
+
+# JHAnimatedImageView - 高性能的帧动画
+- 地址：
+https://github.com/xjh093/JHAnimatedImageView
+
+- 简介
+
+对比了 KKSequenceImageView、YYAnimatedImageView、JHAnimatedImageView、UIImageView
+
+在播放帧动画时 内存 与 CPU 的使用率
+
+---
+
+
 
 
 
