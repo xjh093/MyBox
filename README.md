@@ -16,6 +16,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHRedDot - 小红点方案
 - JHActioinSheet - 自定义的 action sheet，行数过多时可指定可见行数
 - JHAnimatedImageView - 高性能的帧动画
+- JHAudioManager - 应用启动播放短音频
 ---
 
 # 项目
@@ -334,6 +335,16 @@ https://github.com/xjh093/JHAnimatedImageView
 在播放帧动画时 内存 与 CPU 的使用率
 
 ---
+
+# JHAudioManager - 应用启动播放短音频
+- 地址：
+https://github.com/xjh093/JHAudioManager
+
+---
+
+
+
+
 
 
 
