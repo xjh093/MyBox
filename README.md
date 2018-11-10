@@ -17,6 +17,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHActioinSheet - 自定义的 action sheet，行数过多时可指定可见行数
 - JHAnimatedImageView - 高性能的帧动画
 - JHAudioManager - 应用启动播放短音频
+- JHAutoLayout - 另一种自动布局方式
 ---
 
 # 项目
@@ -339,6 +340,26 @@ https://github.com/xjh093/JHAnimatedImageView
 # JHAudioManager - 应用启动播放短音频
 - 地址：
 https://github.com/xjh093/JHAudioManager
+
+---
+
+# JHAutoLayout - 另一种自动布局方式
+- 地址：
+https://github.com/xjh093/JHAutoLayout
+
+- 简介
+
+通过一个字符串来描述 view 的 frame
+
+对字符串进行解析后设 view 的 frame
+
+从而实现动态布局
+
+因为是字符串
+
+可以用 JSON 来描述
+
+你懂的~
 
 ---
 
