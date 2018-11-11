@@ -18,6 +18,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHAnimatedImageView - 高性能的帧动画
 - JHAudioManager - 应用启动播放短音频
 - JHAutoLayout - 另一种自动布局方式
+- JHCountdownButton - 倒计时按钮
 ---
 
 # 项目
@@ -360,6 +361,20 @@ https://github.com/xjh093/JHAutoLayout
 可以用 JSON 来描述
 
 你懂的~
+
+---
+
+# JHCountdownButton - 倒计时按钮 
+- 地址：
+https://github.com/xjh093/JHCountdownButton
+
+- 简介
+
+看图一目了然
+
+![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/01.png)
+
+![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/01.png)
 
 ---
 
