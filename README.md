@@ -374,7 +374,7 @@ https://github.com/xjh093/JHCountdownButton
 
 ![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/01.png)
 
-![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/01.png)
+![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/02.png)
 
 ---
 
