@@ -19,6 +19,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHAudioManager - 应用启动播放短音频
 - JHAutoLayout - 另一种自动布局方式
 - JHCountdownButton - 倒计时按钮
+- JHEmojiKeyboard - Emoji表情键盘
 ---
 
 # 项目
@@ -375,6 +376,18 @@ https://github.com/xjh093/JHCountdownButton
 ![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/01.png)
 
 ![image](https://github.com/xjh093/JHCountdownButton/blob/master/img/02.png)
+
+---
+
+# JHEmojiKeyboard - Emoji表情键盘
+- 地址：
+https://github.com/xjh093/JHEmojiKeyboard
+
+- 简介
+
+Emoji表情键盘
+
+有两套表情可以选择
 
 ---
 
