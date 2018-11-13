@@ -20,6 +20,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHAutoLayout - 另一种自动布局方式
 - JHCountdownButton - 倒计时按钮
 - JHEmojiKeyboard - Emoji表情键盘
+- JHFileDownloadManager - 文件下载 & 多文件下载 & 断点续传
 ---
 
 # 项目
@@ -388,6 +389,25 @@ https://github.com/xjh093/JHEmojiKeyboard
 Emoji表情键盘
 
 有两套表情可以选择
+
+---
+
+# JHFileDownloadManager - 文件下载 & 多文件下载 & 断点续传
+- 地址：
+https://github.com/xjh093/JHFileDownloadManager
+
+- 简介
+
+```
+    [[JHFileDownloadManager manager] jh_downFileWith:[NSURL URLWithString:URL] progress:^(float progress) {
+        NSLog(@"%@",@(progress));
+    } success:^(NSString *path) {
+        // path : file in sandbox
+        NSLog(@"下载完成 & download success!");
+    } failer:^(NSError *error) {
+        NSLog(@"下载失败 & download fialer!");
+    }];
+```
 
 ---
 
