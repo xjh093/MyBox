@@ -420,7 +420,11 @@ https://github.com/xjh093/JHFMDBManager
 
 真的是很简单
 
-增删改查
+继承 JHFMDBManager
+
+实现子类的 增删改查
+
+请参考Demo
 
 ---
 
