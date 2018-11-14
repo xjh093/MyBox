@@ -21,6 +21,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHCountdownButton - 倒计时按钮
 - JHEmojiKeyboard - Emoji表情键盘
 - JHFileDownloadManager - 文件下载 & 多文件下载 & 断点续传
+- JHFMDBManager - 简单地封装了一下FMDB
 ---
 
 # 项目
@@ -411,7 +412,17 @@ https://github.com/xjh093/JHFileDownloadManager
 
 ---
 
+# JHFMDBManager - 简单地封装了一下FMDB
+- 地址：
+https://github.com/xjh093/JHFMDBManager
 
+- 简介
+
+真的是很简单
+
+增删改查
+
+---
 
 
 
