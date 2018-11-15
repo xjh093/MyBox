@@ -22,6 +22,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHEmojiKeyboard - Emoji表情键盘
 - JHFileDownloadManager - 文件下载 & 多文件下载 & 断点续传
 - JHFMDBManager - 简单地封装了一下FMDB
+- JHGradualProgressView - 渐变进度条
 ---
 
 # 项目
@@ -428,11 +429,17 @@ https://github.com/xjh093/JHFMDBManager
 
 ---
 
+# JHGradualProgressView - 渐变进度条
 
+- 地址：
+https://github.com/xjh093/JHGradualProgressView
 
+- 简介
 
+![image](https://github.com/xjh093/JHGradualProgressView/blob/master/image.png)
 
+边框颜色随颜色变化而变化
 
-
+---
 
 
