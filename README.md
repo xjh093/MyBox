@@ -23,6 +23,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHFileDownloadManager - 文件下载 & 多文件下载 & 断点续传
 - JHFMDBManager - 简单地封装了一下FMDB
 - JHGradualProgressView - 渐变进度条
+- JHGuidePageView - 一行代码搞定引导页
 ---
 
 # 项目
@@ -414,6 +415,7 @@ https://github.com/xjh093/JHFileDownloadManager
 ---
 
 # JHFMDBManager - 简单地封装了一下FMDB
+
 - 地址：
 https://github.com/xjh093/JHFMDBManager
 
@@ -441,5 +443,20 @@ https://github.com/xjh093/JHGradualProgressView
 边框颜色随颜色变化而变化
 
 ---
+
+# JHGuidePageView - 一行代码搞定引导页
+
+- 地址：
+https://github.com/xjh093/JHGuidePageView
+
+- 简介
+
+最少传递一个图片数组即可
+
+可传入一个跳转的自定义按钮
+
+---
+
+
 
 
