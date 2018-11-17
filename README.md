@@ -24,6 +24,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHFMDBManager - 简单地封装了一下FMDB
 - JHGradualProgressView - 渐变进度条
 - JHGuidePageView - 一行代码搞定引导页
+- JHHolderTextView - 有占位提示的TextView
 ---
 
 # 项目
@@ -457,6 +458,13 @@ https://github.com/xjh093/JHGuidePageView
 
 ---
 
+# JHHolderTextView - 有占位提示的TextView
 
+- 地址：
+https://github.com/xjh093/JHHolderTextView
 
+- 简介
 
+![image](https://github.com/xjh093/JHHolderTextView/blob/master/images.png)
+
+---
