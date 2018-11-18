@@ -25,6 +25,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHGradualProgressView - 渐变进度条
 - JHGuidePageView - 一行代码搞定引导页
 - JHHolderTextView - 有占位提示的TextView
+- JHInputPayPWDView - 6位密码输入框
 ---
 
 # 项目
@@ -468,3 +469,15 @@ https://github.com/xjh093/JHHolderTextView
 ![image](https://github.com/xjh093/JHHolderTextView/blob/master/images.png)
 
 ---
+
+# JHInputPayPWDView - 6位密码输入框
+
+- 地址
+https://github.com/xjh093/JHInputPayPWDView
+
+- 简介
+
+![image](https://github.com/xjh093/JHInputPayPWDView/blob/master/JHInputPayPWDView/Images/001.png)
+
+---
+
