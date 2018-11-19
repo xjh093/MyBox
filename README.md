@@ -26,6 +26,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHGuidePageView - 一行代码搞定引导页
 - JHHolderTextView - 有占位提示的TextView
 - JHInputPayPWDView - 6位密码输入框
+- JHLanguage - 两行代码搞定本地化多语言
 ---
 
 # 项目
@@ -480,4 +481,19 @@ https://github.com/xjh093/JHInputPayPWDView
 ![image](https://github.com/xjh093/JHInputPayPWDView/blob/master/JHInputPayPWDView/Images/001.png)
 
 ---
+
+# JHLanguage - 两行代码搞定本地化多语言
+
+- 地址
+https://github.com/xjh093/JHLanguage
+
+- 简介
+
+两行代码搞定本地化多语言
+
+```
+kJHSetLanguage(lan)
+kJHLocalizedString(key,tab)
+```
+
 
