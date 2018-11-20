@@ -27,6 +27,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHHolderTextView - 有占位提示的TextView
 - JHInputPayPWDView - 6位密码输入框
 - JHLanguage - 两行代码搞定本地化多语言
+- JHLaunchAD - 应用启动广告页
 ---
 
 # 项目
@@ -495,5 +496,17 @@ https://github.com/xjh093/JHLanguage
 kJHSetLanguage(lan)
 kJHLocalizedString(key,tab)
 ```
+---
+
+# JHLaunchAD - 应用启动广告页
+
+- 地址
+https://github.com/xjh093/JHLaunchAD
+
+- 简介
+
+![image](https://github.com/xjh093/JHLaunchAD/blob/master/Screen%20Shot%202017-09-30%20at%2010.28.43.png)
+
+---
 
 
