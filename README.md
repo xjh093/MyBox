@@ -28,6 +28,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHInputPayPWDView - 6位密码输入框
 - JHLanguage - 两行代码搞定本地化多语言
 - JHLaunchAD - 应用启动广告页
+- JHNineImageView - 九宫格图片展示
 ---
 
 # 项目
@@ -506,6 +507,17 @@ https://github.com/xjh093/JHLaunchAD
 - 简介
 
 ![image](https://github.com/xjh093/JHLaunchAD/blob/master/Screen%20Shot%202017-09-30%20at%2010.28.43.png)
+
+---
+
+# JHNineImageView - 九宫格图片展示
+
+- 地址
+https://github.com/xjh093/JHNineImageView
+
+- 简介
+
+![image](https://github.com/xjh093/JHNineImageView/blob/master/PNG/Screen%20Shot%202018-04-09%20at%2018.04.20.png)
 
 ---
 
