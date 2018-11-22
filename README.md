@@ -29,6 +29,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHLanguage - 两行代码搞定本地化多语言
 - JHLaunchAD - 应用启动广告页
 - JHNineImageView - 九宫格图片展示
+- JHPhotoChangeManager - 拍照 or 从相册选择
 ---
 
 # 项目
@@ -520,5 +521,17 @@ https://github.com/xjh093/JHNineImageView
 ![image](https://github.com/xjh093/JHNineImageView/blob/master/PNG/Screen%20Shot%202018-04-09%20at%2018.04.20.png)
 
 ---
+
+# JHPhotoChangeManager - 拍照 or 从相册选择
+
+- 地址
+https://github.com/xjh093/JHPhotoChangeManager
+
+- 简介
+
+![image](https://github.com/xjh093/JHPhotoChangeManager/blob/master/image/image.png)
+
+---
+
 
 
