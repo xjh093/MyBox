@@ -30,6 +30,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHLaunchAD - 应用启动广告页
 - JHNineImageView - 九宫格图片展示
 - JHPhotoChangeManager - 拍照 or 从相册选择
+- JHRequestDebugView - 请求调试窗口
 ---
 
 # 项目
@@ -532,6 +533,26 @@ https://github.com/xjh093/JHPhotoChangeManager
 ![image](https://github.com/xjh093/JHPhotoChangeManager/blob/master/image/image.png)
 
 ---
+
+# JHRequestDebugView - 请求调试窗口
+
+- 地址：
+https://github.com/xjh093/JHRequestDebugView
+
+- 简介
+
+摇一摇即可出现的请求调试窗口
+
+有JSON格式化功能
+
+包含历史请求列表
+
+方便查看历史请求数据
+
+---
+
+
+
 
 
 
