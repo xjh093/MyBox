@@ -32,6 +32,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHPhotoChangeManager - 拍照 or 从相册选择
 - JHRequestDebugView - 请求调试窗口
 - JHRSAEncoder - RSA加解密
+- JHSlider - 动态展示当前进度
 ---
 
 # 项目
@@ -562,6 +563,19 @@ https://github.com/xjh093/JHRSAEncoder
 RSA encode with openssl
 
 突破117的长度限制
+
+---
+
+# JHSlider - 动态展示当前进度
+
+-地址
+https://github.com/xjh093/JHSlider
+
+-简介
+
+![image](https://github.com/xjh093/JHSlider/blob/master/JHSlider.gif)
+
+![image](https://github.com/xjh093/JHSlider/blob/master/JHSlider.png)
 
 ---
 
