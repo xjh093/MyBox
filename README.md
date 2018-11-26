@@ -33,6 +33,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHRequestDebugView - 请求调试窗口
 - JHRSAEncoder - RSA加解密
 - JHSlider - 动态展示当前进度
+- JHSoundWaveView - 音波图，声波图
 ---
 
 # 项目
@@ -579,6 +580,18 @@ https://github.com/xjh093/JHSlider
 
 ---
 
+# JHSoundWaveView - 音波图，声波图
+
+-地址
+https://github.com/xjh093/JHSoundWaveView
+
+- 简介
+
+![image](https://github.com/xjh093/JHSoundWaveView/blob/master/Image/Nov-22-2018%2018-16-15.gif)
+
+![image](https://github.com/xjh093/JHSoundWaveView/blob/master/Image/Nov-22-2018%2018-16-57.gif)
+
+---
 
 
 
