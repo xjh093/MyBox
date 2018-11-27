@@ -34,6 +34,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHRSAEncoder - RSA加解密
 - JHSlider - 动态展示当前进度
 - JHSoundWaveView - 音波图，声波图
+- JHThirdPartyPay - 微信支付宝支付工具类
 ---
 
 # 项目
@@ -592,6 +593,17 @@ https://github.com/xjh093/JHSoundWaveView
 ![image](https://github.com/xjh093/JHSoundWaveView/blob/master/Image/Nov-22-2018%2018-16-57.gif)
 
 ---
+
+# JHThirdPartyPay - 微信支付宝支付工具类
+
+- 地址
+https://github.com/xjh093/JHThirdPartyPay
+
+---
+
+
+
+
 
 
 
