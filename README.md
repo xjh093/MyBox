@@ -35,6 +35,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHSlider - 动态展示当前进度
 - JHSoundWaveView - 音波图，声波图
 - JHThirdPartyPay - 微信支付宝支付工具类
+- JHTopSlideInputVC - 顶部下滑输入框
 ---
 
 # 项目
@@ -601,7 +602,25 @@ https://github.com/xjh093/JHThirdPartyPay
 
 ---
 
+# JHTopSlideInputVC - 顶部下滑输入框
 
+- 地址
+https://github.com/xjh093/JHTopSlideInputVC
+
+- 简介
+
+```
+    JHTopSlideInputVC *vc = [[JHTopSlideInputVC alloc] init];
+    vc.finishInputBlock = ^(NSString *text) {
+        NSLog(@"input：%@",text);
+    };
+    [vc jh_showIn:self.tabBarController];
+```
+
+![image](https://github.com/xjh093/JHTopSlideInputVC/blob/master/Screen%20Shot%202017-09-15%20at%2009.09.24.png)
+
+
+---
 
 
 
