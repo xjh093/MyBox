@@ -49,6 +49,8 @@ https://github.com/xjh093/JHViewCorner
 
 - 简介:
 
+![image](https://github.com/xjh093/JHViewCorner/blob/master/Images/image2.png)
+
 Set view's corner with one code! 
 
 一行代码完成视图的圆角设置。
