@@ -36,6 +36,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHSoundWaveView - 音波图，声波图
 - JHThirdPartyPay - 微信支付宝支付工具类
 - JHTopSlideInputVC - 顶部下滑输入框
+- JHUIResponderRouter - 通过 UIResponder 传递事件
 ---
 
 # 项目
@@ -622,6 +623,12 @@ https://github.com/xjh093/JHTopSlideInputVC
 
 ---
 
+# JHUIResponderRouter - 通过 UIResponder 传递事件
+
+- 地址
+https://github.com/xjh093/JHUIResponderRouter
+
+---
 
 
 
