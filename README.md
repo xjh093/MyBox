@@ -37,6 +37,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHThirdPartyPay - 微信支付宝支付工具类
 - JHTopSlideInputVC - 顶部下滑输入框
 - JHUIResponderRouter - 通过 UIResponder 传递事件
+- JHUIControlBlock - 告别 Weak-Strong Dance
 ---
 
 # 项目
@@ -632,6 +633,27 @@ https://github.com/xjh093/JHUIResponderRouter
 
 ---
 
+# JHUIControlBlock - 告别 Weak-Strong Dance
+
+- 地址：
+https://github.com/xjh093/JHUIControlBlock
+
+- 简介
+
+```
+[button jh_handleEvent:1<<6 inTarget:self block:^(DemoViewController *vc, id  _Nonnull sender) {
+
+      // use `DemoViewController`
+      vc.navigationItem.title = @"blablabla";
+
+      // invoke method
+      [vc goNextVC];
+
+      // no longer need `Weak-Strong Dance`
+}];
+```
+
+---
 
 
 
