@@ -38,6 +38,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHTopSlideInputVC - 顶部下滑输入框
 - JHUIResponderRouter - 通过 UIResponder 传递事件
 - JHUIControlBlock - 告别 Weak-Strong Dance
+- JHUnicode - 控制台打印的日志显示中文，针对数组和字典的打印输出
 ---
 
 # 项目
@@ -655,6 +656,16 @@ https://github.com/xjh093/JHUIControlBlock
 
 ---
 
+# JHUnicode - 控制台打印的日志显示中文，针对数组和字典的打印输出
+
+- 地址 
+https://github.com/xjh093/JHUnicode
+
+- 简介
+
+直接导入工程即可，就是这么简单~
+
+---
 
 
 
