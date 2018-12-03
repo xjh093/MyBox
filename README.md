@@ -40,6 +40,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHUIControlBlock - 告别 Weak-Strong Dance
 - JHUnicode - 控制台打印的日志显示中文，针对数组和字典的打印输出
 - JHUIAlertView - 自定义的AlertView
+- JHUIViewControllerDecoupler - 一行代码解耦控制器
 ---
 
 # 项目
@@ -681,6 +682,71 @@ https://github.com/xjh093/JHUIAlertView
 
 ---
 
+# JHUIViewControllerDecoupler - 一行代码解耦控制器
+
+- 地址
+https://github.com/xjh093/JHUIViewControllerDecoupler
+
+- 简介
+
+控制器 B，长这样：
+```
+@interface UIViewControllerB : UIViewController
+@property (copy, nonatomic) NSString *name;
+@property (assign, nonatomic) NSInteger age;
+
+@property (copy, nonatomic) void (^editNameBlock)(NSString *name);
+@end
+```
+
+由控制器 A 跳转到 控制器 B ：
+```
+NSMutableDictionary *mdic = @{}.mutableCopy;
+
+// 属性附值
+[mdic setValue:@"Haocold" forKey:@"name"];
+[mdic setValue:@18 forKey:@"age"];
+
+// block 也是可以的
+void (^editNameBlock)(NSString *name) = ^(NSString *name){
+      // code goes here...
+};
+[mdic setValue:editNameBlock forKey:@"editNameBlock"];
+
+// 跳转
+[self pushSpecifiedVC:@"UIViewControllerB" parameter:mdic];
+```
+
+集成到baseViewController:
+
+一行代码调用完成
+
+in base UIViewController:
+
+```
+/// push a specified VC
+- (void)pushSpecifiedVC:(NSString *)VCString parameter:(NSDictionary *)dic{
+    UIViewController *vc = [JHUIViewControllerDecoupler jh_controllerFromString:VCString paramter:dic];
+    [self.navigationController pushViewController:vc animated:YES];
+}
+
+/// present a specified vc
+- (void)presentSpecifiedVC:(NSString *)VCString parameter:(NSDictionary *)dic navigation:(BOOL)flag{
+    UIViewController *vc = [JHUIViewControllerDecoupler jh_controllerFromString:VCString paramter:dic];
+    JHBaseNavigationController *nav = nil;
+    if (flag) {
+        nav = [[JHBaseNavigationController alloc] initWithRootViewController:vc];
+    }
+    [self presentViewController:nav?nav:vc animated:YES completion:nil];
+}
+
+/// a specified VC
+- (UIViewController *)specifiedVC:(NSString *)VCString parameter:(NSDictionary *)dic{
+    return [JHUIViewControllerDecoupler jh_controllerFromString:VCString paramter:dic];
+}
+```
+
+---
 
 
 
