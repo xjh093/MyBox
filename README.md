@@ -41,6 +41,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHUnicode - 控制台打印的日志显示中文，针对数组和字典的打印输出
 - JHUIAlertView - 自定义的AlertView
 - JHUIViewControllerDecoupler - 一行代码解耦控制器
+- JHWebRequest - 使用webview发请求
 ---
 
 # 项目
@@ -748,5 +749,11 @@ in base UIViewController:
 
 ---
 
+# JHWebRequest - 使用webview发请求
+
+- 地址
+https://github.com/xjh093/JHWebRequest
+
+---
 
 
