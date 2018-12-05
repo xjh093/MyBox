@@ -42,6 +42,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHUIAlertView - 自定义的AlertView
 - JHUIViewControllerDecoupler - 一行代码解耦控制器
 - JHWebRequest - 使用webview发请求
+- Okidoki - UI链式语法
 ---
 
 # 项目
@@ -754,6 +755,47 @@ in base UIViewController:
 - 地址
 https://github.com/xjh093/JHWebRequest
 
+---
+
+# Okidoki - UI链式语法
+
+- 地址
+
+https://github.com/xjh093/Okidoki
+
+- 简介
+
+```
+UIView *view = [[UIView alloc] init];
+view.okidoki
+.tag(@100)
+.alpha(@0.5)
+.bgColor(@"#FFFEEE")
+.bdColor(@"#CCCCCC")
+.bdWidth(@1)
+.cnRadius(@3)
+.mtBounds(@(YES));
+
+UILabel *label = [[UILabel alloc] init];
+label.okidoki
+.text(@"label")
+.color([UIColor blackColor])
+.font([UIFont systemFontOfSize:14])
+.align(@1)
+.lines(@2)
+.adjust(@YES)
+.lineSpace(@1)
+.autoWidth(@200)
+.autoHeight(@100)
+.attributedSubstring(@"la",[UIColor redColor])
+.attributedSubstring(@"la",[UIFont systemFontOfSize:17]);
+
+UIButton *button = [[UIButton alloc] init];
+button.okidoki
+.titleForState(@"button",@0)
+.colorForState([UIColor redColor],@0)
+.imageForState([UIImage imageNamed:@"button"],@0);
+```
 ---
 
 
