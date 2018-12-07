@@ -44,6 +44,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHUIViewControllerDecoupler - 一行代码解耦控制器
 - JHWebRequest - 使用webview发请求
 - Okidoki - UI链式语法
+- JHStringFormula - 字符串公式计算
 ---
 
 # 项目
@@ -808,6 +809,17 @@ button.okidoki
 .colorForState([UIColor redColor],@0)
 .imageForState([UIImage imageNamed:@"button"],@0);
 ```
+---
+
+# JHStringFormula - 字符串公式计算
+
+- 地址
+https://github.com/xjh093/JHStringFormula
+
+- 简介
+
+加，减，乘，除四则运算
+
 ---
 
 
