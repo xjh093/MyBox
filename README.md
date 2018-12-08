@@ -45,6 +45,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 - JHWebRequest - 使用webview发请求
 - Okidoki - UI链式语法
 - JHStringFormula - 字符串公式计算
+- JHAES256 - 字符串加密-AES
 ---
 
 # 项目
@@ -821,5 +822,16 @@ https://github.com/xjh093/JHStringFormula
 加，减，乘，除四则运算
 
 ---
+
+# JHAES256 - 字符串加密-AES
+
+- 地址
+https://github.com/xjh093/JHAES256
+
+- 简介
+iOS,Adnroid,PHP三端
+
+---
+
 
 
