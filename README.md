@@ -57,7 +57,7 @@ https://github.com/xjh093/JHLikeButton
 
 - 简介
 
-![image](https://github.com/xjh093/JHLikeButton/blob/master/gif.gif)
+![image](https://github.com/xjh093/JHLikeButton/blob/master/Gif.gif)
 
 ---
 
