@@ -2,6 +2,7 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
+- JHTapTextView - 让你的文本能点击
 - JHLikeButton - 一个有趣的点赞动画
 - JHViewCorner - 一行代码搞定圆角
 - JHFrameLayout - 一款轻量级的自动布局框架
@@ -49,6 +50,17 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHTapTextView - 让你的文本能点击
+
+- 地址
+https://github.com/xjh093/JHTapTextView
+
+- 简介
+
+![image](https://github.com/xjh093/JHTapTextView/blob/master/image.gif)
+
+---
 
 # JHLikeButton - 一个有趣的点赞动画
 
