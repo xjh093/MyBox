@@ -2,6 +2,7 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
+- JHGestureBlock - 手势搭配Block
 - JHDraw - 各种绘图
 - JHTapTextView - 让你的文本能点击
 - JHLikeButton - 一个有趣的点赞动画
@@ -51,6 +52,24 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHGestureBlock - 手势搭配Block
+
+- 地址
+https://github.com/xjh093/JHGestureBlock
+
+- 示例
+```
+    [self.view addGestureRecognizer:JHGestureType_Tap block:^(UIView *view, UIGestureRecognizer *gesture) {
+        // do your stuff!
+        // 是时候露一手了！
+        
+        // example
+        [view removeGestureRecognizer:gesture];
+    }];
+```
+
+---
 
 # JHDraw - 画线，画虚线，画五角星，画矩形，画虚线矩形，渐变色
 
