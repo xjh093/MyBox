@@ -2,6 +2,7 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
+- JHDraw - 各种绘图
 - JHTapTextView - 让你的文本能点击
 - JHLikeButton - 一个有趣的点赞动画
 - JHViewCorner - 一行代码搞定圆角
@@ -50,6 +51,13 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHDraw - 画线，画虚线，画五角星，画矩形，画虚线矩形，渐变色
+
+- 地址
+https://github.com/xjh093/JHDraw
+
+---
 
 # JHTapTextView - 让你的文本能点击
 
@@ -845,6 +853,7 @@ https://github.com/xjh093/JHAES256
 iOS,Adnroid,PHP三端
 
 ---
+
 
 
 
