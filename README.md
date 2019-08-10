@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 - JHShimmer - A Shimmer Label
+- JHChatToolBar - 聊天工具条，聊天输入框
 - JHPP - 在任何 view 内进行 Push、Present
 - JHLongPressCopy - 长按复制内容
 - JHCycleView - 简单的轮播图
@@ -65,6 +66,13 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 https://github.com/xjh093/JHShimmer
 
 ![image](https://github.com/xjh093/JHShimmer/blob/master/JHShimmer/gif.gif)
+
+---
+
+# JHChatToolBar - 聊天工具条，聊天输入框
+
+- 地址
+https://github.com/xjh093/JHChatToolBar
 
 ---
 
