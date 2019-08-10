@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 - JHShimmer - A Shimmer Label
+- JHTirm - 去掉多余的空格和换行
 - JHGestureBlock - 手势搭配Block
 - JHDraw - 各种绘图
 - JHTapTextView - 让你的文本能点击
@@ -60,6 +61,29 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 https://github.com/xjh093/JHShimmer
 
 ![image](https://github.com/xjh093/JHShimmer/blob/master/JHShimmer/gif.gif)
+
+---
+
+# JHTirm - 去掉多余的空格和换行
+
+- 地址
+https://github.com/xjh093/JHTrim
+
+- 示例
+```
+/**
+ trim redundant whitespace and newline.
+ keep count:
+ - whitespace: 10
+ - newline: 2
+ 去掉多余的空格和换行，空格保留10个，换行保留2个
+ 
+ @return a new string.
+ */
+- (NSString *)jh_trimWhitespaceAndNewline;
+
+- (NSString *)jh_trimWhitespaceKeepCount:(NSInteger)count1 andNewlineKeepCount:(NSInteger)count2;
+```
 
 ---
 
