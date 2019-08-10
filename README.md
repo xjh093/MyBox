@@ -2,6 +2,7 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
+- JHShimmer - A Shimmer Label
 - JHGestureBlock - 手势搭配Block
 - JHDraw - 各种绘图
 - JHTapTextView - 让你的文本能点击
@@ -52,6 +53,15 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHShimmer - A Shimmer Label
+
+- 地址
+https://github.com/xjh093/JHShimmer
+
+![image](https://github.com/xjh093/JHShimmer/blob/master/JHShimmer/gif.gif)
+
+---
 
 # JHGestureBlock - 手势搭配Block
 
