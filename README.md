@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 - JHShimmer - A Shimmer Label
+- JHLongPressCopy - 长按复制内容
 - JHCycleView - 简单的轮播图
 - JHTirm - 去掉多余的空格和换行
 - JHNetworkSpeed - 实时网络速度
@@ -63,6 +64,13 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 https://github.com/xjh093/JHShimmer
 
 ![image](https://github.com/xjh093/JHShimmer/blob/master/JHShimmer/gif.gif)
+
+---
+
+# JHLongPressCopy - 长按复制内容
+
+- 地址
+https://github.com/xjh093/JHLongPressCopy
 
 ---
 
