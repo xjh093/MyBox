@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 - JHShimmer - A Shimmer Label
+- JHCycleView - 简单的轮播图
 - JHTirm - 去掉多余的空格和换行
 - JHNetworkSpeed - 实时网络速度
 - JHGestureBlock - 手势搭配Block
@@ -55,13 +56,20 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
-
-# JHShimmer - A Shimmer Label
+ 
+ # JHShimmer - A Shimmer Label
 
 - 地址
 https://github.com/xjh093/JHShimmer
 
 ![image](https://github.com/xjh093/JHShimmer/blob/master/JHShimmer/gif.gif)
+
+---
+
+# JHCycleView - 简单的轮播图
+
+- 地址
+https://github.com/xjh093/JHCycleView
 
 ---
 
