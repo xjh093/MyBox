@@ -4,6 +4,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 # 目录
 - JHShimmer - A Shimmer Label
 - JHTirm - 去掉多余的空格和换行
+- JHNetworkSpeed - 实时网络速度
 - JHGestureBlock - 手势搭配Block
 - JHDraw - 各种绘图
 - JHTapTextView - 让你的文本能点击
@@ -84,6 +85,13 @@ https://github.com/xjh093/JHTrim
 
 - (NSString *)jh_trimWhitespaceKeepCount:(NSInteger)count1 andNewlineKeepCount:(NSInteger)count2;
 ```
+
+---
+
+# JHNetworkSpeed - 实时网络速度
+
+- 地址
+https://github.com/xjh093/JHNetworkSpeed
 
 ---
 
