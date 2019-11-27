@@ -2,6 +2,7 @@
 What's in my github? 我的仓库有些什么？仓库列表，仓库项目，仓库介绍
 
 # 目录
+- JHSafeTimer - A Safe Timer
 - JHShimmer - A Shimmer Label
 - JHChatToolBar - 聊天工具条，聊天输入框
 - JHPP - 在任何 view 内进行 Push、Present
@@ -59,6 +60,15 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+ # JHSafeTimer - A Safe Timer
+ 
+ 使用NSTimer配合block，无需担心循环引用
+ 
+ - 地址
+ https://github.com/xjh093/JHSafeTimer
+ 
+ ---
  
  # JHShimmer - A Shimmer Label
 
