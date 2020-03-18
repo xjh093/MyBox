@@ -4,7 +4,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 # 目录
 
 - JHListView - UITableView and UICollectionView
-- 
+- JHGradientNavigationController - 滑动渐变导航
 - JHSafeTimer - A Safe Timer
 - JHShimmer - A Shimmer Label
 - JHChatToolBar - 聊天工具条，聊天输入框
