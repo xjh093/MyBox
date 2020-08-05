@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 
+- UIButtonGradientBackgroundColor - 给按钮添加渐变背景色
 - JHListView - UITableView and UICollectionView
 - JHGradientNavigationController - 滑动渐变导航
 - JHSafeTimer - A Safe Timer
@@ -63,6 +64,12 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# UIButtonGradientBackgroundColor - 给按钮添加渐变背景色
+- 地址
+https://github.com/xjh093/UIButtonGradientBackgroundColor
+
+---
 
  # JHListView - UITableView and UICollectionView
  - 地址
