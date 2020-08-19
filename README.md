@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 
+- JHKeyboard - 键盘管理分类
 - JHTextViewHolder - UITextView 占位文字
 - JHRollingView - 向上循环滚动视图
 - UIButtonGradientBackgroundColor - 给按钮添加渐变背景色
@@ -66,6 +67,12 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHKeyboard - 键盘管理分类
+- 地址
+https://github.com/xjh093/JHKeyboard
+
+---
 
 # JHTextViewHolder - UITextView 占位文字
 - 地址
