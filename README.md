@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 
+- JHRadarAnimation - 雷达脉冲动画
 - JHKeyboard - 键盘管理分类
 - JHTextViewHolder - UITextView 占位文字
 - JHRollingView - 向上循环滚动视图
@@ -67,6 +68,12 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHRadarAnimation - 雷达脉冲动画
+- 地址
+https://github.com/xjh093/JHRadarAnimation
+
+---
 
 # JHKeyboard - 键盘管理分类
 - 地址
