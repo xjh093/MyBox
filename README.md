@@ -3,6 +3,7 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 
+- JHGCDTimer - 一个 GCD 定时器
 - JHRadarAnimation - 雷达脉冲动画
 - JHKeyboard - 键盘管理分类
 - JHTextViewHolder - UITextView 占位文字
@@ -68,6 +69,12 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHGCDTimer - 一个 GCD 定时器
+- 地址
+https://github.com/xjh093/JHGCDTimer
+
+---
 
 # JHRadarAnimation - 雷达脉冲动画
 - 地址
