@@ -3,6 +3,28 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 
 # 目录
 
+- JHAdjustButton - Layout Image and Title.调整图片与标题的位置.
+- JHUnwrap - Unwrap value from Dictionary in Swift
+- JHURLRequest - extension URLRequest
+- JHNonRecordableView - Non Recordable View。不可录制的视图，包括截屏。禁止录屏，禁止截屏。
+- Swift_ENCrypt - 3DES for swift 
+- JHURLSchemeHandler - WKURLSchemeHandler Demo
+- JHThread - A permanent thread. 一个持久的线程
+- TapGestureAndUITableView - 当手势遇上UITableView，会发生哪些奇妙的事？
+- JHGrayImage - Gray Image Test
+- JHVerifyCodeView - 验证码输入框，验证码，code view，iOS验证码输入
+- addProtocol demo - addProtocol
+- JHKeyboard - A category for keyboard manage.
+- JHAudioTool - 音频合并，转换
+- JHLiveGiftAnimation - 直播送礼连击
+- MoreTargetConfig - 多target工作配置
+- JHBadge - Tabbar Badge，标签栏红点
+- JHDragView - 拖动视图
+- JHTableViewCell - UITableViewCell 封装
+- iOSIconMaker - iOS Icon Maker
+- iOSAutoPacking - 自动打包脚本
+- loading - HUD
+- Watch - just a watch，表盘，时钟，手表
 - JHGCDTimer - 一个 GCD 定时器
 - JHRadarAnimation - 雷达脉冲动画
 - JHKeyboard - 键盘管理分类
@@ -69,6 +91,138 @@ What's in my github? 我的仓库有些什么？仓库列表，仓库项目，�
 ---
 
 # 项目
+
+# JHAdjustButton - Layout Image and Title.调整图片与标题的位置.
+- 地址
+https://github.com/xjh093/JHAdjustButton
+
+---
+
+# JHUnwrap - Unwrap value from Dictionary in Swift
+- 地址
+https://github.com/xjh093/JHUnwrap
+
+---
+
+# JHURLRequest - extension URLRequest
+- 地址
+https://github.com/xjh093/JHURLRequest
+
+---
+
+# JHNonRecordableView - Non Recordable View。不可录制的视图，包括截屏。禁止录屏，禁止截屏。
+- 地址
+https://github.com/xjh093/JHNonRecordableView
+
+---
+
+# Swift_ENCrypt - 3DES for swift 
+- 地址
+https://github.com/xjh093/Swift_ENCrypt
+
+---
+
+# JHURLSchemeHandler - WKURLSchemeHandler Demo
+- 地址
+https://github.com/xjh093/JHURLSchemeHandler
+
+---
+
+# JHThread - A permanent thread. 一个持久的线程
+- 地址
+https://github.com/xjh093/JHThread
+
+---
+
+# TapGestureAndUITableView - 当手势遇上UITableView，会发生哪些奇妙的事？
+- 地址
+https://github.com/xjh093/TapGestureAndUITableView
+
+---
+
+# JHGrayImage - Gray Image Test
+- 地址
+https://github.com/xjh093/JHGrayImage
+
+---
+
+# JHVerifyCodeView - 验证码输入框，验证码，code view，iOS验证码输入
+- 地址
+https://github.com/xjh093/JHVerifyCodeView
+
+---
+
+# addProtocol demo - addProtocol
+- 地址
+https://github.com/xjh093/addProtocol
+
+---
+
+# JHKeyboard - A category for keyboard manage.
+- 地址
+https://github.com/xjh093/JHKeyboard
+
+---
+
+# JHAudioTool - 音频合并，转换
+- 地址
+https://github.com/xjh093/JHAudioTool
+
+---
+
+# JHLiveGiftAnimation - 直播送礼连击
+- 地址
+https://github.com/xjh093/JHLiveGiftAnimation
+
+---
+
+# MoreTargetConfig - 多target工作配置
+- 地址
+https://github.com/xjh093/MoreTargetConfig
+
+---
+
+# JHBadge - Tabbar Badge，标签栏红点
+- 地址
+https://github.com/xjh093/JHBadge
+
+---
+
+# JHDragView - 拖动视图
+- 地址
+https://github.com/xjh093/JHDragView
+
+---
+
+# JHTableViewCell - UITableViewCell 封装
+- 地址
+https://github.com/xjh093/JHTableViewCell
+
+---
+
+# iOSIconMaker - iOS Icon Maker
+- 地址
+https://github.com/xjh093/iOSIconMaker
+
+---
+
+# iOSAutoPacking - 自动打包脚本
+- 地址
+https://github.com/xjh093/iOSAutoPacking
+
+---
+
+# loading - HUD
+- 地址
+https://github.com/xjh093/JHLoadingView
+
+---
+
+# Watch - just a watch，表盘，时钟，手表
+- 地址
+https://github.com/xjh093/Watch
+
+---
 
 # JHGCDTimer - 一个 GCD 定时器
 - 地址
